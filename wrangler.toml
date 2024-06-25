@@ -1,0 +1,10 @@
+name = "donate"
+type = "javascript"
+main = "index.js"
+workers_dev = true
+compatibility_date = "2024-06-25"
+
+[[d1_databases]]
+binding = "DB" 
+database_name = "donate"
+database_id = "d9087ede-8a3b-42b7-917c-d6b7cc39a298" # ID of your D1 database
